@@ -1,4 +1,4 @@
-# Jarvis — Python Voice Assistant
+# Jarvis - Python Voice Assistant
 
 A voice-activated desktop assistant inspired by Iron Man's J.A.R.V.I.S. It listens for the wake word **"Jarvis"**, then responds to spoken commands — opening websites, playing music, reading the latest news headlines, and answering general questions using OpenAI.
 
